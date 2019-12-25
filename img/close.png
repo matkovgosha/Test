@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ошибка 404</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<style>
+			html, body, div, span, applet, object, iframe,
+			h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+			a, abbr, acronym, address, big, cite, code,
+			del, dfn, em, img, ins, kbd, q, s, samp,
+			small, strike, strong, sub, sup, tt, var,
+			b, u, i, center,
+			dl, dt, dd, ol, ul, li,
+			fieldset, form, label, legend,
+			table, caption, tbody, tfoot, thead, tr, th, td,
+			article, aside, canvas, details, embed,
+			figure, figcaption, footer, header, hgroup,
+			menu, nav, output, ruby, section, summary,
+			time, mark, audio, video {margin: 0;padding: 0;	border: 0;font-size: 100%;font: inherit;vertical-align: baseline;}
+			body {line-height: 1;}
+			ol, ul {list-style: none;}
+			html, body {height: 100%;font-family: Tahoma,Geneva,Kalimati,sans-serif;font-size: 12px;color: #a0a0a0;}
+			a {color: #a0a0a0; text-decoration:none;}
+			#wrapper {min-height: 100%;height: auto !important;height: 100%;margin: 0 0 -41px 0;}
+			#footer, .push {height: 41px;}
+			#footer {padding: 0 117px 0 117px;}
+			#footer .inner {width: 100%;height: 10px;border-top: solid 1px #d9d9d9;padding-top: 11px;}
+			.content {padding-top: 87px;padding-left: 117px;}
+			h1, h2 {font-weight: normal;}
+			h1 {font-size: 36px; color: #010101;}
+			h2 {font-size: 20px; color: #6e6e6e;margin:20px 0 35px 0;}
+			ul {padding-bottom: 20px;}
+			ul li {margin-top: 13px;}
+		</style>
+	</head>
+	<body>
+		<div id="wrapper">
+			<div class="content">
+				<h1>Ошибка 404</h1>
+				<h2>Запрашиваемая Вами страница не существует</h2>
+				<ul>
+					<li>1. Ссылка, по которой Вы перешли, неверна.</li>
+					<li>2. Вы неправильно указали путь или название файла/страницы.</li>
+					<li>3. Файл или страница были удалены со времени Вашего последнего посещения.</li>
+				</ul>
+			</div>
+			<div class="push"></div>
+		</div>
+		<div id="footer">
+			<div class="inner">
+				&copy;&nbsp;<a href="../../www.majordomo.ru/default.htm" title="Хостинг Majordomo">Хостинг&nbsp;Majordomo</a>,&nbsp;2000&mdash;2012
+			</div>
+		</div>
+	</body>
+</html>
